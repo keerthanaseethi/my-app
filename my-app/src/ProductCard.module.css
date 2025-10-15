@@ -1,0 +1,22 @@
+.card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 2px 2px 8px #aaa;
+  width: 200px;
+}
+.price {
+  color: #444;
+  font-weight: bold;
+}
+.buyButton {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.buyButton:hover {
+  background: #0056b3;
+}
